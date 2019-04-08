@@ -1,0 +1,22 @@
+body{
+	background: url(https://wallpaperplay.com/walls/full/1/4/3/87655.jpg)
+}
+.mainh1 {
+	margin: 60px;
+	color: darkgray;
+	font-family: 'Pridi', serif;
+	font-size: 80px;
+}
+.startscreen {
+	background-color: #000000;
+	margin-top: 50px;
+	margin-left: 250px;
+	margin-right: 250px;
+	padding: 150px;
+	color: darkgray;
+	text-align: center;
+	font-family: 'Pridi', serif;
+}
+.startbutton {
+	background: #0D6647;
+}
