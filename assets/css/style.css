@@ -9,10 +9,10 @@ body{
 }
 .startscreen {
 	background-color: #000000;
-	margin-top: 50px;
+	margin-top: 20px;
 	margin-left: 250px;
 	margin-right: 250px;
-	padding: 150px;
+	padding: 50px;
 	color: darkgray;
 	text-align: center;
 	font-family: 'Pridi', serif;
