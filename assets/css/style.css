@@ -14,9 +14,25 @@ body{
 	margin-right: 250px;
 	padding: 50px;
 	color: darkgray;
-	text-align: center;
+	text-align: left;
 	font-family: 'Pridi', serif;
 }
 .startbutton {
 	background: #0D6647;
+}
+.jumbotron h3 {
+	text-align: left;
+}
+
+#timer {
+	text-align: center;
+}
+.display-4 {
+	text-align: center;
+}
+.lead {
+	text-align: center;
+}
+.button {
+	text-align: center;
 }
